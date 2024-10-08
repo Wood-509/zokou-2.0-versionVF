@@ -10,7 +10,7 @@
     "PREFIXE":
     {
       "description":"choisissez votre préfixe",
-      "value":"#",
+      "value":"-",
       "required":true
     },
     "LECTURE_AUTO_STATUS":
@@ -21,7 +21,7 @@
     }, "TELECHARGER_AUTO_STATUS":
     {
       "description":"le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
-      "value":"oui",
+      "value":"non",
       "required":false
     }
     ,
@@ -35,7 +35,7 @@
      "LIENS_MENU" : {
     
       "description":"Ajoutez un ou plusieurs lien(s) d'image ou de video pour votre bot ; exemple : lien1,lien2,lien3......",
-      "value":"https://wallpapercave.com/uwp/uwp3943464.jpeg",
+      "value":"https://telegra.ph/file/7d8f9f70c06a3b1927e38.jpg",
       "required":false
        
      },
@@ -43,14 +43,14 @@
      "PM_PERMIT" :
      {
       "description":"Les commandes seront pas fonctionnelles en priver pour les autres utilisateurs (oui pour activer et non pour désactiver)",
-      "value":"non",
+      "value":"oui",
       "required":false
     }
     ,
     "MODE_PUBLIC":
     {
       "description":"oui pour le mode public ou non pour le mode privé(Dans ce vous seul  utiliserez le bot)",
-      "value":"oui",
+      "value":"non",
       "required":false
     }
 	,
@@ -71,7 +71,7 @@
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib05lSWoxbTA4WmFaUmVDOWxUenI5TVJneEFQRGZUN21tQmxtenBPOFoxZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWnoxMWpobUVzYzVGSWlDc05hZWF6clJCckJlaEpUSllLKzdJbXNRRGVHaz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrSDMwVGlYcFBtazlGZGlIUGQwSElwVy9EcXREUTVEV2lnLy8rUzZhOUhFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwZHUyaGZsTUZzblY2UUVzaHF6a2I3a2RGUGpVU1g5WmRsL2tZOERodlU0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBIajZ5MGJScmNTWlBLa1hkaW8wUXZDRWowSkpDbDZDWXVadktuamZJbms9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImY5ekJXcG1nZjc3UzJQOWVMYlpUeFNnOFB4T1Q5WjBSS1lBaDRFRWJHRlU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUU4rc2kyMmg5OUZTYzZjaC85dXZLYWhzVThtTFBhQURnSUZDd1dGdGNrYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiLzZnMzNVYWRtOFM2RjZuZHNjemh4bjduUnJtbTNmamdEVURKRklwNXlnaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkkwYXVLQlB1UG1oRnBkbzcvNzhTTjhaK0VoNDFBWG5FWXcxQzRzU2ZTVXpQS3lRRndOcVp4NTJ3ZUtnSlBVeUFnYThmdVgzUkpXbDlvTlJ0cC9UaGdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTgxLCJhZHZTZWNyZXRLZXkiOiJib0tVTFYwVDlXSjI1YWdqOExGQndRY1NpLzV2cHRIQnNoOWpZQTU1bjZrPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiSXY4WmNhSjlUWDZtby1jU1Yydzc5QSIsInBob25lSWQiOiI4M2E4MjcwZC1hMzVjLTQzY2MtYTVjYS01ZDcwODA5ODFkZTUiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicmhubHhheTMvUDA1d2oxUXRKWXNVZ0NFTUZjPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImwrbUQ2ODlEK25pUjVYamZUcHBqTGtFSlFmQT0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJXUlA4QTZZOSIsIm1lIjp7ImlkIjoiMTgwOTQyNDgyMzQ6MjRAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BTWDdvTURFTUwwbGJnR0dBUWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ik9zei9YUmoyLzRaYysxS1hGWUNsbDl2QjMwUzVjN09CZEJwWitoMWtqemc9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlFjd0J1Sk1TVGxhbVE3b2duU3VKbzZ4NEsyQTRFSTViV0dYbnBickxBNDZtbW5lbDZ5VW85NFNYRXNTeE5BWGJxNGNKelIyQVh4cVhWWjZvdHowTkRRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJBRFhzdDRuQmwxMVhvR2RQYU1VR0xlOG5mQXBjSGtjdjRtSmdSTWNHamovZ2IwWDhpanlpNWIzdlpDNjZLTFo3QW9mRUFMOVRUanhPNTRFeTh4V3Fqdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjE4MDk0MjQ4MjM0OjI0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlRyTS8xMFk5ditHWFB0U2x4V0FwWmZid2Q5RXVYT3pnWFFhV2ZvZFpJODQifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQifQ==",
       "required":true
       
     },
@@ -80,14 +80,14 @@
     
     "description": "Votre nom",
     "required": false,
-    "value": "Djalega++"
+    "value": "𓄂⍣⃝𝐆𝚯𝐃𝄟✮͢≛ 𝐒𝚫𝐒𝐔𝐊𝚵⃝𝄟✮⃝👑"
   },
     "NUMERO_OWNER":
   {
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "22891733300"
+    "value": "18094248234"
   },
     
 
